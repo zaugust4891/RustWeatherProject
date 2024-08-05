@@ -1,0 +1,1 @@
+/Users/zachaugust/Desktop/AppCove/target/debug/tempconv1: /Users/zachaugust/Desktop/AppCove/src/api.rs /Users/zachaugust/Desktop/AppCove/src/cli.rs /Users/zachaugust/Desktop/AppCove/src/lib.rs /Users/zachaugust/Desktop/AppCove/src/main.rs /Users/zachaugust/Desktop/AppCove/src/tempconv.rs

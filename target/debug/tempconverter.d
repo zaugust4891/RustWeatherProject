@@ -1,0 +1,1 @@
+/Users/zachaugust/Desktop/AppCove/target/debug/tempconverter: /Users/zachaugust/Desktop/AppCove/src/lib.rs /Users/zachaugust/Desktop/AppCove/src/main.rs /Users/zachaugust/Desktop/AppCove/src/test1.rs /Users/zachaugust/Desktop/AppCove/src/test2/io.rs /Users/zachaugust/Desktop/AppCove/src/test2/mod.rs
